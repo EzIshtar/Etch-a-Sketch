@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px
+}
+
+.div-class {
+    border: 1px solid black;
+    height: 35px;
+}
+
+#but {
+    color: black;
+    background-color: aliceblue;
+}
